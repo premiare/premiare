@@ -1,4 +1,4 @@
-## Hello! I'm Premiare, or Brayden.
+# Hello! I'm Premiare, or Brayden.
 
 ## I'm a Front-End Developer from Melbourne.
 
