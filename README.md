@@ -1,8 +1,8 @@
-### Hello! I'm Premiare, or Brayden.
+## Hello! I'm Premiare, or Brayden.
 
 ## I'm a Front-End Developer from Melbourne.
 
-# My main tech stack is:
+### My main tech stack is:
 - HTML5
 - CSS
 - Bootstrap 5
@@ -11,7 +11,7 @@
 
 I'm currently looking for a job in Web Development, so all my current projects are self-inspired and self-progressing. Git pushes are here and there, but a lot of my work is done without pushing to repo at the moment.
 
-# Current projects and interests:
+### Current projects and interests:
 - AI powered image publisher; requesting images with voice commands.
 - Hospitality business websites; with my background in hospitality, I want to develop better websites for restaurants and bars.
 - Sheriff Bot; a discord bot for moderation and fun commands
