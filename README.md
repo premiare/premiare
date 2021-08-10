@@ -16,5 +16,3 @@ I'm currently looking for a job in Web Development, so all my current projects a
 - Hospitality business websites; with my background in hospitality, I want to develop better websites for restaurants and bars.
 - Sheriff Bot; a discord bot for moderation and fun commands
 - POS systems to optimize the efficiency of hospitality and retail businesses.
-
-For any business enquiries or queries, please send me an email to: braydenbarterwebdev@gmail.com
