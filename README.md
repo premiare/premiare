@@ -15,4 +15,3 @@ I'm currently looking for a job in Web Development, so all my current projects a
 - AI powered image publisher; requesting images with voice commands.
 - Hospitality business websites; with my background in hospitality, I want to develop better websites for restaurants and bars.
 - Sheriff Bot; a discord bot for moderation and fun commands
-- POS systems to optimize the efficiency of hospitality and retail businesses.
