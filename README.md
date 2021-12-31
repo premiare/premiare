@@ -13,3 +13,5 @@
 - AI powered image publisher; requesting images with voice commands.
 - Hospitality business websites; with my background in hospitality, I want to develop better websites for restaurants and bars.
 - Sheriff Bot; a discord bot for moderation and fun commands
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=premiare&show_icons=true&hide_border=true" />
