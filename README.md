@@ -2,16 +2,14 @@
 
 ## I'm a Front-End Developer from Melbourne.
 
-### My main tech stack is:
-- HTML5
-- CSS
-- Bootstrap 5
-- JavaScript ES6
-- Node.js
-
-### Current projects and interests:
-- AI powered image publisher; requesting images with voice commands.
-- Hospitality business websites; with my background in hospitality, I want to develop better websites for restaurants and bars.
-- Sheriff Bot; a discord bot for moderation and fun commands
+### My main stack is:
+- HTML5, 
+- CSS (Sass, Scss)
+- JavaScript
+- jQuery
+- React
+- PHP
+- SQL
+- mongoDB 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=premiare&show_icons=true&hide_border=true" />
