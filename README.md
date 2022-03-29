@@ -4,12 +4,11 @@
 
 ### My main stack is:
 - HTML5, 
-- CSS (Sass, Scss)
+- CSS, Sass, Scss
+- Tailwind
 - JavaScript
 - jQuery
 - React
 - PHP
-- SQL
-- mongoDB 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=premiare&show_icons=true&hide_border=true" />
