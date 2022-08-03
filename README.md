@@ -10,7 +10,7 @@
 - NextJS
 - PHP
 
-# Currently working on <a href='https://twitter.com/mentheio' target='_blank'>Menthe</a>
+### Currently working on <a href='https://twitter.com/mentheio' target='_blank'>Menthe</a>
 - NextJS
 - Mantine
 - Supabase
