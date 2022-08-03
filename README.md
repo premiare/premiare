@@ -10,6 +10,9 @@
 - NextJS
 - PHP
 
-## Currently working on <a href='https://twitter.com/mentheio' target='_blank'>Menthe</a>
+# Currently working on <a href='https://twitter.com/mentheio' target='_blank'>Menthe</a>
+- NextJS
+- Mantine
+- Supabase
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=premiare&show_icons=true&hide_border=true" />
