@@ -1,16 +1,17 @@
-# Hello! I'm Premiare, or Brayden.
+# 👋 Hey, I'm Brayden 
 
-## I'm a Front-End Developer from Melbourne.
+## 🏙️ I'm a Front-End Developer from Melbourne
 
-### My tech stack includes:
+### 📚 My tech stack includes:
 - CSS / Sass / Scss
 - TailwindCSS
 - JavaScript
+- TypeScript
 - React
 - NextJS
 - PHP
 
-### Currently building with:
+### 🏗️ Currently building with:
 - NextJS
 - Mantine
 - Supabase
