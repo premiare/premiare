@@ -2,7 +2,14 @@
 
 ## 🏙️ I'm a Front-End Developer from Melbourne
 
-### 📚 My tech stack includes:
+### 🏗️ Currently building [Neuws](https://neuws.app) with:
+- NextJS
+- React Native / Expo
+- Supabase
+- NodeJS
+- Tailwind
+
+### 📚 Tech & Skills include:
 - CSS / Sass / Scss
 - TailwindCSS
 - JavaScript
@@ -10,10 +17,3 @@
 - React
 - NextJS
 - PHP
-
-### 🏗️ Currently building with:
-- NextJS
-- Mantine
-- Supabase
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=premiare&show_icons=true&hide_border=true" />
