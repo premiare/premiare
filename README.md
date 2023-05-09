@@ -3,10 +3,10 @@
 ## 🏙️ I'm a Front-End Developer from Melbourne
 
 ### 🏗️ Currently building [Neuws](https://neuws.app) with:
-- NextJS
+- Next.js
 - React Native / Expo
 - Supabase
-- NodeJS
+- Node.js
 - Tailwind
 
 ### 📚 Tech & Skills include:
@@ -15,5 +15,5 @@
 - JavaScript
 - TypeScript
 - React
-- NextJS
+- Next.js
 - PHP
