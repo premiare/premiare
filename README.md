@@ -9,6 +9,8 @@
 - Node.js
 - Tailwind
 
+You can check out the live version [here](https://app.neuws.app) 
+
 ### 📚 Tech & Skills include:
 - CSS / Sass / Scss
 - TailwindCSS
